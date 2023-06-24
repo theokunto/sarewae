@@ -1,0 +1,22 @@
+[
+    {
+        "createdAt": "2023-06-23T11:50:14.522Z",
+        "name": "Shari-la Jakarta",
+        "image": "https://aw-d.tripcdn.com/images/0204v120008qxt6f40F61_R_960_660_R5_D.jpg_.webp",
+        "location": "Jakarta",
+        "price": 2000000,
+        "rate": 4,
+        "id": "1",
+        "address": "Kota BNI, JL. Jend. Sudirman Kav. 1, Tanah Abang, Jakarta Pusat, Jakarta, 10220, Indonesia"
+    },
+    {
+        "createdAt": "2023-06-23T11:50:14.522Z",
+        "name": "Swiss-Belhotel Mangga Besar",
+        "image": "https://aw-d.tripcdn.com/images/220f1800000151juvDFA0_R_960_660_R5_D.jpg_.webp",
+        "location": "Jakarta",
+        "price": 550000,
+        "rate": 4,
+        "id": "2",
+        "address": "Jl. Kartini Raya No.57, Kartini, Kecamatan Sawah Besar, Jakarta Pusat, Jakarta, 10750, Indonesia"
+    }
+]

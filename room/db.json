@@ -1,0 +1,31 @@
+[
+    {
+        "createdAt": "2023-06-23T05:48:55.383Z",
+        "hotelId": "1",
+        "name": "Deluxe King Room",
+        "price": 2000000,
+        "image": "https://aw-d.tripcdn.com/images/0225a120009q6woep8BD8_R_224_126_R5_D.jpg",
+        "facility": [
+            "1 Tempat Tidur",
+            "1 Kamar Mandi",
+            "1 Ruang Tamu"
+        ],
+        "status": true,
+        "id": "1",
+        "rate": 4
+    },
+    {
+        "createdAt": "2023-06-23T05:48:55.383Z",
+        "hotelId": "1",
+        "name": "Kamar Deluxe Twin",
+        "price": 1900000,
+        "image": "https://aw-d.tripcdn.com/images/0200d12000047pm34CC00_R_160_90_R5_D.jpg",
+        "facility": [
+            "2 Tempat Tidur",
+            "1 Kamar Mandi"
+        ],
+        "status": true,
+        "id": "2",
+        "rate": 4
+    }
+]
